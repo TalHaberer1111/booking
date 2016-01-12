@@ -1,0 +1,19 @@
+#story {
+  display: none;
+}
+
+h1{
+  font-family: cursive;
+  font-size: 30px;
+  color:white;
+  text-align: center;
+}
+
+body {
+  background-image: url(http://www.wallpapersonview.com/wallpapers/2/abstract_blue_leaves-01.jpg);
+  color:white;
+}
+
+img {
+  display:block;
+}
